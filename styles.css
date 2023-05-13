@@ -1,0 +1,28 @@
+
+
+
+#container {
+    display: grid;
+margin-left: 40%;
+margin-top: 10%;
+    
+}
+
+.view {
+background-color: rgb(45, 237, 237);
+    border: solid 3px black;
+    height: 50px;
+    width: 207px;
+    border-radius: 5px;
+
+}
+
+.key {
+    height: 50px;
+    width: 50px;
+}
+
+.bottom{
+    height:50px;
+    width: 104px;
+}
